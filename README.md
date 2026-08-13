@@ -120,19 +120,6 @@ End-to-end ML pipeline: synthetic data generation → augmentation → Efficient
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nastya-papulova&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=cd8fff&icon_color=cd8fff&text_color=c9d1d9" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nastya-papulova&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=cd8fff&text_color=c9d1d9&langs_count=8" alt="languages"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
 *Open to Data Scientist, Computer Vision Researcher and ML Engineer roles — remote or relocation.*
 
 [📧 Get in touch](mailto:papulova.nastya2001@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/anastasiia-papulova/)
